@@ -30,7 +30,7 @@ const Navbar = () => {
       <UL>
         <LI>Home</LI>
         <LI>About</LI>
-        <LI onClick={theme.handleToggleTheme}>Toggle Theme</LI>
+        <LI onClick={theme.handleToggleTheme}>Switch Theme</LI>
       </UL>
       <AuthContainer>
         <LI>Signup</LI>
